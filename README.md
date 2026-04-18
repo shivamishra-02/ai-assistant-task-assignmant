@@ -178,3 +178,7 @@ python-dotenv
 * Multiple response formats (summary, detailed, etc.)
 
 ---
+
+## Live Link
+
+https://ai-assistant-task-assignmant-zcqdrjkgh3ehrlzg5q9cz2.streamlit.app/
