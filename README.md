@@ -47,7 +47,7 @@ ai-assistant-task/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/ai-assistant-task.git
+git clone https://github.com/shivamishra-02/ai-assistant-task.git
 cd ai-assistant-task
 ```
 
